@@ -1,13 +1,6 @@
-# Bioinformatics-for-beginners
+# Bioinformatics-for-beginners 
 
 
-**Welcome to the world of bioinformatics!**
-
-This markdown dives into the exciting field where biology meets computer science. We'll explore the fundamentals of bioinformatics, introduce basic coding concepts in Python and R, and provide a glimpse into the world of Linux, equipping you with the tools to navigate this ever-evolving discipline.
-
-**What is Bioinformatics?**
-
-Bioinformatics utilizes computational tools and techniques to analyze biological data. It allows us to decipher the complex language of life at the molecular level.
 
 **Why is Bioinformatics Important?**
 
