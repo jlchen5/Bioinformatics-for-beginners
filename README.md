@@ -1,7 +1,6 @@
 # Bioinformatics-for-beginners 
 
-
-
+## Part I
 **Why is Bioinformatics Important?**
 
 Bioinformatics plays a vital role in various areas of biological research, including:
@@ -12,6 +11,7 @@ Bioinformatics plays a vital role in various areas of biological research, inclu
 * **Drug Discovery:** Designing new drugs and therapies.
 * **Personalized Medicine:** Tailoring medical treatments to individual patients based on their genetic makeup.
 
+## Part II
 **Getting Started with Bioinformatics: Code as Your Ally**
 
 While biology forms the foundation, basic coding knowledge empowers you to manipulate and analyze complex biological data. Here are some key concepts you'll encounter:
@@ -22,6 +22,7 @@ While biology forms the foundation, basic coding knowledge empowers you to manip
 * **Sequence Alignment:** Comparing DNA or protein sequences to identify similarities and differences.
 * **Phylogenetic Analysis:** Understanding the evolutionary relationships between organisms.
 
+## Part III
 **Learning to Code:  Unlocking the Potential**
 
 Here's a glimpse into the world of coding for bioinformatics:
@@ -82,11 +83,24 @@ average_expression <- mean(filtered_data$expression_level)
 # Print results
 print(paste("Average expression level for genes with expression > 100:", average_expression))
 ```
-
+## Part IV
 **Resources for Learning More**
 
 There are numerous resources available to help you on your bioinformatics journey:
 
 * **Online Courses:** Platforms like Coursera, edX, and Udacity offer introductory bioinformatics courses, often incorporating coding exercises in Python or R.
 * **Books:** Textbooks such as "Learn Python for Bioinformatics" and "Bioinformatics Programming with R" provide a structured approach to learning both biology and coding.
-*
+
+**Notable Bioinformatics Papers on Genomics and Machine Learning (2014-2024)**
+
+- Integrative Analysis of Complex Cancer Genomics and Clinical Profiles Using the cBioPortal
+
+- Deep Learning for Genomics: A Concise Overview
+
+- Predicting the Sequences of Tumor Mutational Signatures Using Machine Learning
+
+- Using Machine Learning to Predict Pathogenicity of Variants in Clinical Genomics
+
+- Discusses the application of machine learning models to predict the pathogenicity of genetic variants, crucial for diagnostics and treatment planning in clinical genomics.
+
+- AI-based Pathogen Detection and Genome Assembly
